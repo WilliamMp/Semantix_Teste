@@ -1,7 +1,7 @@
 1º Qual o objetivo do comando cache em Spark?
 
 Devido a forma que o Lazy Evaluation do spark funciona podemos utilizar o cache para salvar resultados de operações que antes iram ser executadas somente no momento da ação.
-Assim sendo o comando "Cache" permite salvemos o resultado de uma operação dentro do cache para que o mesmo possa ser chamado mais vezes assim reduzindo a quantidade de operações realizadas no código.
+Assim sendo o comando "Cache" permite salvemos o resultado de uma operação dentro do cache para que o mesmo possa ser chamado mais vezes assim reduzindo a quantidade de operações realizadas no código. 
 
 2ºO mesmo código implementado em Spark é normalmente mais rápido que a implementação equivalente em MapReduce. Por quê? 
 
